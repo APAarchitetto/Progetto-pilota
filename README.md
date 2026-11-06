@@ -1,2 +1,0 @@
-# Progetto-pilota
-Progetto pilota
